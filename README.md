@@ -1,2 +1,2 @@
 # S-Box
-From Atmospheric Noise to Cryptographic Strength: A TRNG-Based Methodology for S-box Generation and Optimization
+Auditable Generation of S-Boxes: Do Verifiable Initialization Constraints Affect Attainable Cryptographic Properties?
