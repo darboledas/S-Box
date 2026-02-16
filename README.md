@@ -1,4 +1,5 @@
 # Auditable Generation of S-Boxes
+[![DOI](https://zenodo.org/badge/1148214113.svg)](https://doi.org/10.5281/zenodo.18662769)
 
 > **Reproducibility Repository for:** *Auditable Generation of S-Boxes: Do Verifiable Initialization Constraints Affect Attainable Cryptographic Properties?*  
 > Published in *Cryptologia* (2026)
